@@ -9,4 +9,8 @@ A webpage containing imforation about myself as a developer and links to current
 
 for potential employers to see work that I have done. 
 
+## Code Source
+
+all code was written by Timothy Lee alone. No outside code was utilized, and no other person collaborated on this project.
+
 
