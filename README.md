@@ -13,4 +13,11 @@ for potential employers to see work that I have done.
 
 all code was written by Timothy Lee alone. No outside code was utilized, and no other person collaborated on this project.
 
+## Screen Shot
 
+![Screenshot](./assets/images/screenshot.jpg)
+
+
+## Link to deployed application
+
+https://timl94.github.io/Timothy-Lee-Portfolio/
