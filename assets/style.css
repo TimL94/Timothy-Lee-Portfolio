@@ -27,16 +27,13 @@ header h1{
 header a {
     color: black;
     font-weight: bolder;
-    
 }
+
 header nav ul {
     float: right;
     padding-right: 25px;
 }
 
-header nav ul{
-    list-style-type: none;
-}
 
 header nav ul li{
     display: inline;
